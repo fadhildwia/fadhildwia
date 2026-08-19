@@ -3,7 +3,7 @@
 ## Hi👋, I'm Fadhil!
 Software Developer with 3+ years of experience. Worked for innovative startups and large enterprise products. Familiar with both remote, and in-office roles. Comfortable for Web, Mobile, and API development.
 
-- Feel free to checkout my [portfolio](https://fadhilahdwiananda.vercel.app/) website!
+- Feel free to checkout my [portfolio](https://fadhilahdwiananda.my.id/) website!
 - Explore my [blog](https://medium.com/@fadhilahdwi.a) where I share insights and learnings.
 - 🏢 Frontend Developer [@Mertani](https://www.mertani.co.id/)
 - ⚡ I enjoy gaming, reading, and jogging :)
